@@ -1,4 +1,3 @@
-# CodeClause_NewsPortal
 # News Portal Project
 This project is a simple news portal that allows users to view a list of news articles from a variety of sources. The news articles are displayed in a list, and users can click on an article to view more details. The project also includes a search bar that allows users to search for specific news articles.
 
